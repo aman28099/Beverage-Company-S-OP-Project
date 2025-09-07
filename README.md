@@ -26,4 +26,3 @@ cost trade-offs in real-world planning.
 - S&OP frameworks
 - Cost analysis & optimization logic
 
-## 📂 Repository Structure
